@@ -17,3 +17,4 @@ Apaixonado por tecnologia e informacao através da programação.
 
 ## Email pra contato:
 - [Email - Gmail] (Gusapas26@gmail.com)
+OK
