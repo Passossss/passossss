@@ -1,4 +1,4 @@
-## Olá, Eu soudod Gustavo Passos, Bem vindo! 🇧🇷  
+## Olá, Eu sou o Gustavo Passos, Bem vindo! 🇧🇷  
 
 <div>
 <a href="https://github.com/Passossss">
