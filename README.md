@@ -1,4 +1,4 @@
-## Hi, I'm Gustavo Passos, Welcome to my profile! 🇧🇷  
+## Olá, Eu soudod Gustavo Passos, Bem vindo! 🇧🇷  
 
 <div>
 <a href="https://github.com/Passossss">
