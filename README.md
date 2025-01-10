@@ -1,8 +1,7 @@
 ## Olá, Eu sou o Gustavo Passos, Bem vindo! 🇧🇷  
 
 <div>
-<a href="https://github.com/Passossss">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Passossss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+<a href="https://github.com/Passossss"> 
 </div>
   
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
