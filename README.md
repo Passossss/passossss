@@ -5,7 +5,8 @@
 </div>
   
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="100px" height="100px" align="right">
+
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="80px" height="auto" align="right">
 
   <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30" />   
