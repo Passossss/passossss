@@ -1,6 +1,10 @@
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 ## Olá, Eu sou o Gustavo Passos, Bem vindo! 🇧🇷  
-
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="150px" height="150px" align="right" style="margin-right: 20px;">
+  <div>
+    <a href="https://github.com/Passossss" style="font-size: 24px; font-weight: bold; color: #333; text-decoration: none;">Visite meu GitHub</a>
+  </div>
+</div>
 <div>
 <a href="https://github.com/Passossss"> 
 </div>
