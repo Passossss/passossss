@@ -1,8 +1,4 @@
 <h2 align="center">Olá, Eu sou o Gustavo Passos, Bem-vindo! 🇧🇷</h2>
-<!-- Alinhando imagem ao lado do texto e do ícone do Discord -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="60px" height="60px" align="right">
-</div>
 <div style="margin-top: 10px; text-align: center;">
   <a href="https://instagram.com/gustavopassosx/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
