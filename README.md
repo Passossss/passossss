@@ -26,10 +26,10 @@
 <a href="https://discord.com/channels/Hard#9045" target="_blank"><img src="https://img.shields.io/badge/-Discord-%230067C5?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
   
-![Snake animation](https://github.com/Passossss/Passossss/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Passossss/Passossss/blob/output/github-snake.svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Passossss/Passossss/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Passossss/Passossss/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Passossss/Passossss/output/github-contribution-grid-snake.svg" />
-</picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Passossss/Passossss/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Passossss/Passossss/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Passossss/Passossss/output/github-snake.svg" />
+</picture>
