@@ -25,8 +25,6 @@
 <a href="mailto:Gusapas26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://discord.com/channels/Hard#9045" target="_blank"><img src="https://img.shields.io/badge/-Discord-%230067C5?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
-  
-![Snake animation](https://github.com/Passossss/Passossss/blob/output/github-snake.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Passossss/Passossss/output/github-snake-dark.svg" />
